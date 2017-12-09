@@ -1,0 +1,13 @@
+{
+  "name": "usability-test-mustang",
+  "version": "0.6.9",
+  "engines": {
+    "node": "6.2.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
